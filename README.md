@@ -1,5 +1,11 @@
 # FyraDevice PHP SDK
 
+<!-- simple-start:start -->
+Use FyraDevice from a PHP app.
+
+**Start here.** Run `composer require titancsa/fyradevice`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
